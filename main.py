@@ -1,3 +1,7 @@
+
+"""
+This module generates QR code 
+"""
 import pyqrcode
 
 if __name__ == "__main__":
